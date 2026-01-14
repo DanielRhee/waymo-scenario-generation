@@ -1,0 +1,7 @@
+name: waymo-scenario-generation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+prefix: /Users/daniel/anaconda3/envs/waymo-scenario-generation
