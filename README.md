@@ -14,3 +14,5 @@ desktop gui. Clone this repositiory and follow the instructions in
 ```
 git clone git@github.com:cruz-control/nautilus.git
 ```
+
+The PVC we currently use is waymo-e2e-dataset. 
